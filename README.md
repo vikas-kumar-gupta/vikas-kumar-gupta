@@ -1,13 +1,11 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vikas-kumar-gupta.vikas-kumar-gupta)
-
 </p>
 <div size='20px'> Hi! My name is Vikas Kumar Gupta. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas-kumar-gupta&row=1&column=6" alt="vikas-kumar-gupta" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas-kumar-gupta&row=1&column=6" alt="vikas-kumar-gupta" /></a> </p>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
